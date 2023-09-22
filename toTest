@@ -1,0 +1,15 @@
+{
+  "name": "My Awesome NFT",
+  "description": "A one-of-a-kind digital collectible.",
+  "image": "https://example.com/my-nft-image.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    }
+  ]
+}
