@@ -1,0 +1,18 @@
+{
+    "name": "My Unique NFT",
+    "description": "justWork",
+    "image": "https://airnfts.s3.amazonaws.com/nft-images/20210722/LORD_SHIVA_1626934340624.jpg",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 10000
+      }
+    ]
+  }
+  
+  
+  
